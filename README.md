@@ -1,9 +1,15 @@
 # IIRS Internship Assessment - Track 3
 ## Reverse Geofencing API for Logistics
 
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![Flask](https://img.shields.io/badge/Flask-3.0-green.svg)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0.14-orange.svg)
+![License](https://img.shields.io/badge/License-Academic-red.svg)
+
 **Submitted By:** SAKET KUMAR  
 **Track:** Track 3 - Reverse Geofencing  
-**Technology Stack:** Python, Flask, GeoPandas, Shapely
+**Technology Stack:** Python, Flask, GeoPandas, Shapely  
+**Date:** December 24, 2025
 
 ---
 
